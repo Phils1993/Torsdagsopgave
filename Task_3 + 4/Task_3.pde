@@ -10,28 +10,28 @@ void setup(){
   adress = "Firskovvej 17";
   addition = 50+100;
   division = 50/2;
-  message = "hej med dig";
+  message = "Hej med dig, ";
   // 4c
-  println("Adresse " + adress);
+  println("Adresse: " + adress);
   println("plus: " + addition);
   println("dividere:" + division);
-  println("besked til mig: " + message);
+  println(message + "Philip. ");
   
   // 4d 
-  adress = "Tingskrivervej 1.";
+  adress = "2800 1.";
   addition = 40+40;
   division = 200/2;
-  message = "Philip";
+  message = "Jeg håber du har en god dag !";
   
   // 4e
   adress = adress + " 1. etage til højre";
   addition = addition + 5;
   division = division /2;
-  message = message + " du er flot ";
-  println("Adresse " + adress);
+  message = message + " Du er flot. ";
+  println("Adresse: " + adress);
   println("plus: " + addition);
   println("dividere: " + division);
-  println("besked til mig: " + message);
+  println("Besked: " + message);
   
   //4f 
   addition++;
