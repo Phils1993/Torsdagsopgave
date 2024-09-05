@@ -9,6 +9,7 @@ int green;
 int blue;
 
 //Task 5b
+// Initaliere antal af cirkler
 int numberOfCircles;
 int circleSize;
 
