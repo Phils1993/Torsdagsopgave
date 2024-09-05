@@ -62,7 +62,7 @@ void draw(){
   //Add the code for 6.c here
   fill(red,green,blue);
   
-  red = counter==0 ? (int)random (255):red;
-  blue = counter ==0 ? (int)random(255):blue;
-  green = counter ==0 ? (int)random(255):green;
+  red = counter==29 ? (int)random (255):red;
+  blue = counter ==29 ? (int)random(255):blue;
+  green = counter ==29 ? (int)random(255):green;
 }
